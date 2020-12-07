@@ -1,0 +1,6 @@
+node_modules
+debug
+.vscode
+.DS_Store
+test/*.sh
+.prettierrc
