@@ -4,3 +4,4 @@ debug
 .DS_Store
 test/*.sh
 .prettierrc
+package-lock.json
